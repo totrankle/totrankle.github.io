@@ -1,2 +1,2 @@
 # Personal Portfolio for Thomas Trankle
-> https://ttrankle.github.io/
+> https://totrankle.github.io/
